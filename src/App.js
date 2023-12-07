@@ -44,11 +44,14 @@ const userList = [
 ];
 
 function App() {
-  const deleteUserInfo = () => {};
+  const createUserInfo = () => {};
 
   return (
     <div>
-      <h1>test</h1>
+      <h1>Hello, GSM 신규 입학 지원자 명단</h1>
+      {/* 여기에 지원자 명단 표시 */}
+      <input placeholder="지원자의 이름을 입력해주세요" />
+      <button>지원자 추가</button>
     </div>
   );
 }

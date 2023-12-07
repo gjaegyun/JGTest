@@ -1,4 +1,6 @@
 const UserItem = () => {
+  const deleteUserInfo = () => {};
+
   return (
     <div>
       <span>유저 이름: {}</span>
