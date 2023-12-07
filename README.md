@@ -23,3 +23,10 @@
 userList는 초기 데이터입니다. 실시간으로 지원자 추가, 삭제가 확인될 수 있도록 코드를 작성해주세요.
 
 디자인은 전혀 고려하지 않습니다.
+
+예시 구현 영상
+
+
+
+https://github.com/themoment-team/JGTest/assets/106712562/23a4ea30-4f02-44e4-86ca-a0d3b8358ba5
+
