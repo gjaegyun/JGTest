@@ -45,6 +45,7 @@ const userList = [
 
 function App() {
   const createUserInfo = () => {};
+  const deleteUserInfo = () => {};
 
   return (
     <div>
